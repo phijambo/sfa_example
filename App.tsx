@@ -294,7 +294,7 @@ import EncryptedStorage from 'react-native-encrypted-storage';
 const clientId =
   'BGJ_aSNouj-rSbvEJ_dFT2677ZD12fmcX4UEaPJ05AerSTH3Wy55mIQB90K88x2eoLiT4VCHNRUstVNqDujlhPE';
 
-const verifier = 'w3a-test-google';
+const verifier = 'web3auth-google';
 
 const chainConfig = {
   chainId: '0x1',
@@ -356,8 +356,8 @@ export default function App() {
   async function signInWithEmailPassword() {
     try {
       const res = await auth().signInWithEmailAndPassword(
-        'test@example.com',
-        'SuperSecretPassword!',
+        'phi@jambo.technology',
+        '12345678a',
       );
       return res;
     } catch (error) {

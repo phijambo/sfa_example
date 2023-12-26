@@ -2,18 +2,22 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>CLIENT_ID</key>
+	<string>899799637028-41fd38toogj6u73tr5v3iu9k62n37opb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.899799637028-41fd38toogj6u73tr5v3iu9k62n37opb</string>
 	<key>API_KEY</key>
-	<string>AIzaSyBVFW3CnvtO6SireNPNXDfVpUOAtrXtJQ0</string>
+	<string>AIzaSyDwvgcde912Bdwc_74BNBdhfGef-zyI85I</string>
 	<key>GCM_SENDER_ID</key>
-	<string>47479090618</string>
+	<string>899799637028</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.jambo.wallet</string>
+	<string>org.reactjs.native.example.jwks</string>
 	<key>PROJECT_ID</key>
-	<string>jambo-4e857</string>
+	<string>jkws-55661</string>
 	<key>STORAGE_BUCKET</key>
-	<string>jambo-4e857.appspot.com</string>
+	<string>jkws-55661.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:47479090618:ios:73fcf2c3aeaf8c78de4183</string>
+	<string>1:899799637028:ios:9150bbffe87611ed9a0cb1</string>
 </dict>
 </plist>

@@ -46419,7 +46419,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = org.reactjs.native.example.jwks;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jambo.wallet;
 				PRODUCT_NAME = web3authsfafirebase;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -46445,7 +46445,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = org.reactjs.native.example.jwks;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jambo.wallet;
 				PRODUCT_NAME = web3authsfafirebase;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
